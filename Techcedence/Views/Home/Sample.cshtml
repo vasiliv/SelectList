@@ -1,0 +1,12 @@
+﻿@{
+    Layout = null;
+}
+
+@model MyViewModelSample
+
+<h4>Group DropDownList Options in ASP.NET Core</h4>
+
+<form asp-controller="Home" asp-action="SampleSubmit" method="post">
+    <select asp-items="@Model.MoviesList" asp-for="SelectedMovieID"></select>
+    <input type="submit" value="submit" />
+</form>
