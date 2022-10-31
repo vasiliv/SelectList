@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Techcedence", "Techcedence\Techcedence.csproj", "{50139C07-6A92-45C0-965D-F7F70CC54533}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpCorner", "CsharpCorner\CsharpCorner.csproj", "{A96C4143-53C0-4B20-BADA-516F84DD2B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpCorner", "CsharpCorner\CsharpCorner.csproj", "{A96C4143-53C0-4B20-BADA-516F84DD2B47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yogihosting", "Yogihosting\Yogihosting.csproj", "{C1F6BBD0-96AB-48D9-AA4D-7747C930EE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.mvc-tutorial.com", "asp.mvc-tutorial.com\asp.mvc-tutorial.com.csproj", "{B9471340-D6D6-4080-A456-27F3B52B7B40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{A96C4143-53C0-4B20-BADA-516F84DD2B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A96C4143-53C0-4B20-BADA-516F84DD2B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A96C4143-53C0-4B20-BADA-516F84DD2B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F6BBD0-96AB-48D9-AA4D-7747C930EE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F6BBD0-96AB-48D9-AA4D-7747C930EE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F6BBD0-96AB-48D9-AA4D-7747C930EE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F6BBD0-96AB-48D9-AA4D-7747C930EE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9471340-D6D6-4080-A456-27F3B52B7B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9471340-D6D6-4080-A456-27F3B52B7B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9471340-D6D6-4080-A456-27F3B52B7B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9471340-D6D6-4080-A456-27F3B52B7B40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
